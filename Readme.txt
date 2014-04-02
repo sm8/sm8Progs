@@ -1,1 +1,1 @@
-This is a test file to demo commiting to a repository.
+This is a test file to demo committing to a repository.
