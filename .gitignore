@@ -1,0 +1,4 @@
+debug/
+ipch/
+*.sdf
+*.suo
